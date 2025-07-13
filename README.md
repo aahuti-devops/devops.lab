@@ -3,9 +3,6 @@
 Getting Started
 Clone the repository
 
-git clone https://github.com/aahuti-devops/devops-lab.git
-cd server-performance-stats
-
 Make the script executable: chmod +x server-stats.sh
 
 Execute the script : ./server-stats.sh
