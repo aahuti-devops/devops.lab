@@ -13,3 +13,5 @@ ps -eo pid,ppid,cmd,%cpu,%mem --sort=-%cpu | head -n 6
 
 ps -eo pid,ppid,cmd,%cpu,%mem --sort=-%mem | head -n 6
 // this will give top 5 memory usage
+
+
